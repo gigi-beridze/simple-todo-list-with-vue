@@ -1,3 +1,8 @@
+
+# todo list with vue (simple)
+
+![image](https://user-images.githubusercontent.com/82542634/167497373-f852d4fd-6872-4efb-b743-4f14ef8c9738.png)
+
 # vue-project
 
 This template should help get you started developing with Vue 3 in Vite.
